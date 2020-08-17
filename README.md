@@ -1,3 +1,8 @@
+Spotify Clone made using reactJS and spotify API for retrieving tracks, profile imformation and playlists from spotify.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
